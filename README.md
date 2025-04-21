@@ -1,3 +1,7 @@
+Prune audio/video libs to reduce image size. Managed to shave off 41% of final image size.
+
+---
+
 <a name="readme-top"></a>
 
 <p align="center">
